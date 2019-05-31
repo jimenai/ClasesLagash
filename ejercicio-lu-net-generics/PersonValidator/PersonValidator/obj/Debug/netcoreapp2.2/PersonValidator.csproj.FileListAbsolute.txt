@@ -1,0 +1,18 @@
+c:\temp\LU ejercicio net integrador\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csprojAssemblyReference.cache
+c:\temp\LU ejercicio net integrador\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csproj.CoreCompileInputs.cache
+c:\temp\LU ejercicio net integrador\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.AssemblyInfoInputs.cache
+c:\temp\LU ejercicio net integrador\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.AssemblyInfo.cs
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.deps.json
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.runtimeconfig.json
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.runtimeconfig.dev.json
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.dll
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.pdb
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonRepository.dll
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonRepository.pdb
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csprojAssemblyReference.cache
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csproj.CoreCompileInputs.cache
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.AssemblyInfoInputs.cache
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.AssemblyInfo.cs
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csproj.CopyComplete
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.dll
+C:\Users\nataliai\Desktop\ejercicio-lu-net-generics\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.pdb

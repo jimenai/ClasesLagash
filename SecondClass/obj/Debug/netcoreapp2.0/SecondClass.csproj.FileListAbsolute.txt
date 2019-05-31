@@ -1,0 +1,10 @@
+C:\Users\nataliai\Desktop\SecondClass\bin\Debug\netcoreapp2.0\SecondClass.deps.json
+C:\Users\nataliai\Desktop\SecondClass\bin\Debug\netcoreapp2.0\SecondClass.runtimeconfig.json
+C:\Users\nataliai\Desktop\SecondClass\bin\Debug\netcoreapp2.0\SecondClass.runtimeconfig.dev.json
+C:\Users\nataliai\Desktop\SecondClass\bin\Debug\netcoreapp2.0\SecondClass.dll
+C:\Users\nataliai\Desktop\SecondClass\bin\Debug\netcoreapp2.0\SecondClass.pdb
+C:\Users\nataliai\Desktop\SecondClass\obj\Debug\netcoreapp2.0\SecondClass.csproj.CoreCompileInputs.cache
+C:\Users\nataliai\Desktop\SecondClass\obj\Debug\netcoreapp2.0\SecondClass.AssemblyInfoInputs.cache
+C:\Users\nataliai\Desktop\SecondClass\obj\Debug\netcoreapp2.0\SecondClass.AssemblyInfo.cs
+C:\Users\nataliai\Desktop\SecondClass\obj\Debug\netcoreapp2.0\SecondClass.dll
+C:\Users\nataliai\Desktop\SecondClass\obj\Debug\netcoreapp2.0\SecondClass.pdb

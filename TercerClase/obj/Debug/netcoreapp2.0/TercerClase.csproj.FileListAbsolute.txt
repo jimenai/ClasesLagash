@@ -1,0 +1,3 @@
+C:\Users\nataliai\Desktop\TercerClase\obj\Debug\netcoreapp2.0\TercerClase.csproj.CoreCompileInputs.cache
+C:\Users\nataliai\Desktop\TercerClase\obj\Debug\netcoreapp2.0\TercerClase.AssemblyInfoInputs.cache
+C:\Users\nataliai\Desktop\TercerClase\obj\Debug\netcoreapp2.0\TercerClase.AssemblyInfo.cs
